@@ -5,6 +5,6 @@
 <p>Course Name: Digital Electronics and Pulse Techniques [CSE350] </p>
 <p>Semester: Spring 2026</p>
 <p>Course instructor: Tasneem Mazhar [TSE]</p>
-<p>Lab Faculty:Tasneem Mazhar [TSE] & Md Toky Tazwar [MTOT]</p>
+<p>Lab Faculty: Tasneem Mazhar [TSE] & Md Toky Tazwar [MTOT]</p>
 
 
